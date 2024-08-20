@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+.formulario{
+    background-color: rgb(175, 175, 175);
+    margin: auto;
+    border-radius: 15px;
+    padding: 20px 20px;
+    box-shadow: solid black 2px 2px;
+}
+
+input{
+    border: 1px solid black;
+    border-radius: 15px;
+}
