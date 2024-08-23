@@ -15,6 +15,7 @@ header{
     color: white;
     background-color:rgb(175, 235, 175);
     padding: 20px;
+    width: 100%;
 }
 
 .news{
@@ -28,13 +29,27 @@ article{
     border: 1px solid #ccc;
     border-radius: 15px;
     margin: 10px;
-    padding: 10px;
+    padding: 20px;
     width: 80%;
     cursor: pointer;
+    background-color: #f3f3f3;
 }
 
 img{
     width: 100%;
+    border-radius: 15px;
     height: auto;
-    
+
+}
+
+footer{
+    color: white;
+    background-color: rgb(175, 235, 175);
+    padding: 10px 0;
+    bottom: 0;
+    width: 100%;
+}
+
+h2,p{
+    padding-top: 10px;
 }
